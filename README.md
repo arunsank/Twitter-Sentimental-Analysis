@@ -23,9 +23,9 @@ Report.pdf - This contains the final report which summarizes the overall analysi
 
 # Folders
 
-Data - Contains the sourse data and other json files foe Geovisualization br\
-   |__ nst_2011.csv - The csv file that contains the data across each state br\
-   |__ The other files are built-in jsons that are required for Geovisualizing the data br\
+Data - Contains the sourse data and other json files foe Geovisualization \
+   |__ nst_2011.csv - The csv file that contains the data across each state \
+   |__ The other files are built-in jsons that are required for Geovisualizing the data \
 
 WordClouds - Contains Wordcloud inputs and outputs that were used for our visualization.
 
