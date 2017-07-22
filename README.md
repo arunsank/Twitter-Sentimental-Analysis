@@ -5,4 +5,39 @@ The data extraction process for this project was critical as we had to crawl dat
 
 # Files 
 
-submit.html - Home page containing the word clouds for DOnald Trump and Hillary Clinton.These wordclouds contained the most prominent words spoken when tweeting about @realDonaldTrump and @HillaryClinton. 
+submit.html - Home page containing separate options to analyze and understand the stats about Donald trump and Hillary Clinton
+
+WordCloud.html- This page contains the word clouds for Donald Trump and Hillary Clinton.These wordclouds contained the most prominent words spoken when tweeting about @realDonaldTrump and @HillaryClinton.
+
+Nodetmp.html - This page contains the nodes for Donald Trump. These are nodes from the n gram model with which we construct a force directed graph
+
+Nodehil.html - This page contains the nodes for Hillary Clinton. These are nodes from the n gram model with which we construct a force directed graph
+
+Wordgraph.html - This page contains the force Directed graph for Hillary Clinton. With this graph we could intuitively analyze the  top bigram , trigram and 4 gram nodes.
+
+Wordgraph2.html - This page contains the force Directed graph for Donald Trump. With this graph we could intuitively analyze the  top bigram , trigram and 4 gram nodes.
+
+Geoviz.html -  This page contains the cartogram for Donald Trump and Hillary Clinton. With this page we could effectively compare the amount of positive and negative tweets tweeted in each state for Donald trump and Hillary Clinton. The data here was collected at different times of the week and month and then normalized. The normalized data is then mapped to each state in the United States.
+
+Report.pdf - This contains the final report which summarizes the overall analysis performed the intuitions that were got and the cisualizations that were created
+
+# Folders
+
+Data - Contains the sourse data and other json files foe Geovisualization
+   |__ nst_2011.csv - The csv file that contains the data across each state
+   |__ The other files are built-in jsons that are required for Geovisualizing the data
+
+WordClouds - Contains Wordcloud inputs and outputs that were used for our visualization.
+
+lib - Contains javascript libraries that are required
+
+
+
+
+
+
+
+
+
+
+
