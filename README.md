@@ -5,6 +5,8 @@ The data extraction process for this project was critical as we had to crawl dat
 
 # Files 
 
+Twittercrawl.py - Contains the python code that uses the Twitter API to crawl tweets once in 15 minutes
+
 submit.html - Home page containing separate options to analyze and understand the stats about Donald trump and Hillary Clinton
 
 WordCloud.html- This page contains the word clouds for Donald Trump and Hillary Clinton.These wordclouds contained the most prominent words spoken when tweeting about @realDonaldTrump and @HillaryClinton.
